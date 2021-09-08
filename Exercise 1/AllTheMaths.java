@@ -25,8 +25,8 @@ public class AllTheMaths {
         System.out.print("11111 modulus 3 minus 67 minus 1 plus 9 is: ");
         System.out.println(11111 % 3 - 67 - 1 + 9);
 
-        System.out.print("44 minus 22 minus 11 minus 66 minus 88 minus 76 minus 11 minus 33 is : ");
-        System.out.println(44 - 22 - 11 - 66 - 88 - 76 - 11 - 33);
+        System.out.print("44 minus 22 plus 11 minus 66 minus 88 plus 76 minus 11 minus 33 is : ");
+        System.out.println(44 - 22 + 11 - 66 - 88 + 76 - 11 - 33);
 
         System.out.print("22 times 3 minus 1 plus 4 times 6 minus -9 is : ");
         System.out.println(22 * 3 - 1 + 4 * 6 - (-9));
